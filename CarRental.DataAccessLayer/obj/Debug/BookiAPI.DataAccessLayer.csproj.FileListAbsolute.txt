@@ -1,0 +1,8 @@
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\bin\Debug\CarRental.DataAccessLayer.dll
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\bin\Debug\CarRental.DataAccessLayer.pdb
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\bin\Debug\Dapper.dll
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\bin\Debug\Dapper.xml
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\obj\Debug\BookiAPI.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\obj\Debug\BookiAPI.DataAccessLayer.csproj.CopyComplete
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\obj\Debug\CarRental.DataAccessLayer.dll
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental.DataAccessLayer\obj\Debug\CarRental.DataAccessLayer.pdb

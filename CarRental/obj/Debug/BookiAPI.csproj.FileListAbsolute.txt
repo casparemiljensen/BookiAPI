@@ -1,0 +1,9 @@
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\bin\Debug\CarRental.exe.config
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\bin\Debug\CarRental.exe
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\bin\Debug\CarRental.pdb
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\obj\Debug\BookiAPI.csprojAssemblyReference.cache
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\obj\Debug\BookiAPI.csproj.CopyComplete
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\obj\Debug\CarRental.exe
+C:\Users\caspa\Qsync\Caspar\Dokumenter\Skole dokumenter\UCN\3. Semester\Projekt\repo\BookiAPI\CarRental\obj\Debug\CarRental.pdb
